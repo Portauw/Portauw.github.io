@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.whizzgolf.whizzgolf",
+      "sha256_cert_fingerprints": [
+        "E4:F1:EA:29:FB:69:38:08:A1:6B:EC:D5:38:59:93:CD:3D:8D:E5:8E:C4:8D:24:89:65:70:96:BE:7E:1A:8A:24"
+      ]
+    }
+  }
+]
+
+
